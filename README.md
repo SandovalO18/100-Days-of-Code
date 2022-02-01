@@ -6,4 +6,4 @@ I'll be using this repo to track my progress and as a way to commit myself.
  
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
-- [Day 1](day01): Understanding Data Types and How to Manipulate Strings
+- [Day 2](day02): Understanding Data Types and How to Manipulate Strings
