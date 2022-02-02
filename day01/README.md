@@ -2,9 +2,11 @@
 
 ## Exercises
 
-- https://repl.it/@lenargasimov/day-2-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-2-2-exercise#main.py
-- https://repl.it/@lenargasimov/day-2-3-exercise#main.py
+- [Exercise 1](day1_exercise1.py)
+- [Exercise 2](day1_exercise2.py)
+- [Exercise 3](day1_exercise3.py)
+- [Exercise 4](day1_exercise4.py)
+
 
 ## Band Name Generator
 - [Band name](day1_project.py)
