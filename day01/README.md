@@ -1,4 +1,4 @@
-Day 1 - Beginner - Working with Variables in Python to Manage Data
+# Day 1 - Beginner - Working with Variables in Python to Manage Data
 
 ## Exercises
 
@@ -8,6 +8,4 @@ Day 1 - Beginner - Working with Variables in Python to Manage Data
 
 ## Band Name Generator
 
-![tip calculator](tip_calculator.gif)
-
-https://repl.it/@lenargasimov/tip-calculator-start#main.py
+![band_name](https://user-images.githubusercontent.com/79122389/152209778-721647d3-5bab-4caf-be16-9ac5d9114286.png)
