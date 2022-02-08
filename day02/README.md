@@ -7,6 +7,6 @@
 - [Exercise 3](day2_exercise3.py)
 
 ## Tip Calculator
-- [Tip Calculator](day1_project.py)
+- [Tip Calculator](day2_project.py)
 ![tip calculator](https://user-images.githubusercontent.com/79122389/152209778-721647d3-5bab-4caf-be16-9ac5d9114286.png)
 
