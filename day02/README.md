@@ -8,5 +8,4 @@
 
 ## Tip Calculator
 - [Tip Calculator](day2_project.py)
-![tip calculator]<img width="612" alt="Tip Calculator" src="https://user-images.githubusercontent.com/79122389/152914633-6d90ceda-6ff0-409d-891d-cdc5e5506257.png">
-
+![tip calculator](https://user-images.githubusercontent.com/79122389/152914633-6d90ceda-6ff0-409d-891d-cdc5e5506257.png)
