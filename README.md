@@ -7,3 +7,7 @@ I'll be using this repo to track my progress and as a way to commit myself.
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
 - [Day 2](day02): Understanding Data Types and How to Manipulate Strings
+- [Day 3](day03): Control Flow and Logical Operators
+- [Day 4](day04): Randomisation and Python Lists
+- [Day 5](day05): Python Loops
+
