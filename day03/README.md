@@ -5,7 +5,7 @@
 - [Exercise 1](day3_exercise1.py)
 - [Exercise 2](day3_exercise2.py)
 - [Exercise 3](day3_exercise3.py)
-- [Exercise 3](day3_exercise3.py)
+- [Exercise 4](day3_exercise4.py)
 
 ## Treasure Island
 - [Treasure Island](day3_project.py)
