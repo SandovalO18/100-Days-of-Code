@@ -9,4 +9,4 @@
 
 ## Treasure Island
 - [Treasure Island](day3_project.py)
-![treasure island](https://user-images.githubusercontent.com/79122389/155437426-ea1c2ba5-cf3a-4bda-8587-c31bb98a4ea2.png")
+![treasure island](https://user-images.githubusercontent.com/79122389/155437426-ea1c2ba5-cf3a-4bda-8587-c31bb98a4ea2.png)
