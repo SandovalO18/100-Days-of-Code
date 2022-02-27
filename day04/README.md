@@ -2,9 +2,9 @@
 
 ## Exercises
 
-- [Exercise 1](day4_exercise1.py)
-- [Exercise 2](day4_exercise2.py)
-- [Exercise 3](day4_exercise3.py)
+- [Exercise 1](day04_exercise1.py)
+- [Exercise 2](day04_exercise2.py)
+- [Exercise 3](day04_exercise3.py)
 
 ## Rock Paper Scissors 📝✂️
 - [Rock Paper Scissors](day4_project.py)
