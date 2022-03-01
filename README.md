@@ -16,7 +16,7 @@ I'll be using this repo to track my progress and as a way to commit myself.
 
 
 
-- [Day 8](day08): Function Parameters & Caesar Cipher
+#- [Day 8](day08): Function Parameters & Caesar Cipher
 - [Day 9](day09): Dictionaries, Nesting and the Secret Auction
 - [Day 10](day10): Function Return Values and the Calculator Project
 - [Day 11](day11): Blackjack Capstone Project
