@@ -1,5 +1,4 @@
-# Day 4 - Beginner - Randomisation and Python Lists
-
+# Day 4 - Beginner - Python Loops
 ## Exercises
 
 - [Exercise 1](day5_exercise1.py)
