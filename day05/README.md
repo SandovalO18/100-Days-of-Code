@@ -7,6 +7,7 @@
 - [Exercise 3](day5_exercise3.py)
 - [Exercise 4](day5_exercise4.py)
 
-## Rock Paper Scissors 📝✂️
-- [Rock Paper Scissors](day4_project.py)
-![rock,paper,scissors](https://user-images.githubusercontent.com/79122389/155865883-db95cda7-592c-4198-af7f-580489b35cc6.png)
+## Password Generator
+- [Password Generator](day5_project.py)
+
+![password generator](https://user-images.githubusercontent.com/79122389/156215724-5bbf91b7-ef2b-40db-8cce-6fbf6b0513b2.jpg)
