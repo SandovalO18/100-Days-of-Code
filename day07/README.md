@@ -1,8 +1,8 @@
 # Day 7 - Beginner - Hangman
 
 ## Project. Hangman
-- [Hangman](day7_project.py)
+- [Hangman](day07_project.py)
 
-https://reeborg.ca/reeborg.html
-![escape the maze](https://user-images.githubusercontent.com/79122389/156252127-9db9dec3-79eb-4ff8-8a46-aa57b7284353.PNG)
+![Hangman1](https://user-images.githubusercontent.com/79122389/156265147-b20e7278-3d4b-4917-98ee-abfe228658a8.PNG)
+![Hangman](https://user-images.githubusercontent.com/79122389/156265144-a1584bf0-6702-48ac-b2a2-9ed506ec1d3c.png)
 
