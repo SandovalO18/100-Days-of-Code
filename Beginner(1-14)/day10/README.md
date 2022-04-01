@@ -5,4 +5,4 @@
 ## Calculator
 - [Calculator](day10_project.py)
 
-![auction](https://user-images.githubusercontent.com/79122389/161344862-851df5fe-7f7a-4707-9fd8-f99cab05518f.JPG)
+![calc](https://user-images.githubusercontent.com/79122389/161345823-9626bd92-3dde-4d67-b037-ec4c3625f6d1.JPG)
