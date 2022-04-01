@@ -1,8 +1,6 @@
 # Day 10 - Beginner - Functions with Outputs
 
 - [Exercise 1](day10_exercise1.py)
-- [Exercise 2](day10_exercise2.py)
-
 
 ## Calculator
 - [Calculator](day10_project.py)
